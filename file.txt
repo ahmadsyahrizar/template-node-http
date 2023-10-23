@@ -1,0 +1,21 @@
+tata cara pengerjaan challenge 4. 
+
+1. clone https://github.com/fnurhidayat/probable-garbanzo ke local 
+2. di local, rubah remote url ke repo masing2 . (googling aja ya caranya). 
+3. new branch di local, kerjakan challenge di new branch. 
+4. create server di server/index.js. 
+5. create atau copas file html kalian ke dalam /public
+   * public/index.html
+   * public/cars.html
+   * dan lain2 sesuai kebutuhan. 
+6. CSS kalian tambahkan filenya di folder /css. (style.example.css jangan di hapus)
+7. begitu juga dengan js
+4. add, commit, dan push ke remote repo kalian (sesuai dengan remote url di nomor 2). 
+5. Udah deh.
+
+***OPTIONAL*** 
+- biar modular, pls create file2 yg functional ke dalam file terpisah
+ *create aja di root /helpers/getHtml.js, dsb sesuai kebutuhan  
+
+
+
